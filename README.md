@@ -1,4 +1,5 @@
 # NewsLetter
 Uma landing page sobre uma empresa que oferece produtos e soluções relacionadas ao marketing digital.
-![image](https://github.com/user-attachments/assets/ac6dc150-10de-4ca6-ba35-23d8ca77cf63)
+![image](https://github.com/user-attachments/assets/839ca1f9-e628-48de-8788-7d354feddd2c)
+
 
